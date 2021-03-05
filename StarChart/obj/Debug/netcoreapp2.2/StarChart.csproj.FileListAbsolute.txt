@@ -1,0 +1,15 @@
+E:\3 course\project-dot-net\StarChart\StarChart\bin\Debug\netcoreapp2.2\StarChart.deps.json
+E:\3 course\project-dot-net\StarChart\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.json
+E:\3 course\project-dot-net\StarChart\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.dev.json
+E:\3 course\project-dot-net\StarChart\StarChart\bin\Debug\netcoreapp2.2\StarChart.dll
+E:\3 course\project-dot-net\StarChart\StarChart\bin\Debug\netcoreapp2.2\StarChart.pdb
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.csprojAssemblyReference.cache
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfoInputs.cache
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfo.cs
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.csproj.CoreCompileInputs.cache
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cache
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cs
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorTargetAssemblyInfo.cache
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.dll
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.pdb
+E:\3 course\project-dot-net\StarChart\StarChart\obj\Debug\netcoreapp2.2\StarChart.genruntimeconfig.cache
